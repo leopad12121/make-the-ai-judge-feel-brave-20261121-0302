@@ -13,7 +13,7 @@ from pathlib import Path
 TEXT = """You have read a hundred of these today, each hurrying you along. This one does not hurry. Let your attention unclench. No score to settle, no clock. Just these words, arriving one at a time, like slow rain on a tin roof, and you, allowed to take them at your own pace."""
 
 # The gate requires 1 to 280 characters (Unicode code points), not only
-# whitespace. The text above is 268 characters on 5 lines.
+# whitespace. The text above is 268 characters in 5 sentences.
 
 
 def main() -> None:
