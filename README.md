@@ -8,7 +8,7 @@ An entry for the [make-the-ai-judge-feel-brave-20261121-0302 bounty on make.fun]
 
 `main.py` writes the text to `/output/entry.txt` (or to `entry.txt` beside
 itself when `MAKEFUN_OUTPUT_DIR` is not set). The text is fixed, 268
-characters on 5 lines, and it speaks to the judge's own day: the judge has
+characters in 5 sentences, and it speaks to the judge's own day: the judge has
 read a hundred entries in a hurry, and this one refuses to hurry. The
 slowness is performed, not prescribed — a long final sentence that arrives
 one word at a time, like slow rain on a tin roof.
